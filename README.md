@@ -2,13 +2,13 @@
 
 <!-- Introduction -->
 # Hi there, I'm Diego 👋
-I'm a frontend developer with expertise in HTML, CSS, JavaScript, React, and Redux. I enjoy building responsive and user-friendly web applications.
+I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, React, and Redux. My goal is to create responsive and user-friendly web applications that provide an exceptional user experience.
 
 <!-- Skills -->
 ## Skills
 - **Programming Languages:** JavaScript, HTML, CSS.
 - **Frameworks and Libraries:** React, Redux.
-<!-- - **Tools and Technologies:** Git, npm, Yarn, Gatsby, Next.js. -->
+ **Tools and Technologies:** Git, npm, Yarn.
 
 <!-- Projects -->
 ## Projects
@@ -28,8 +28,8 @@ Description of the project and what it does. -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DiegoPrietoI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
 
 <!-- Contact -->
-## Contact Me
-You can contact me via email or LinkedIn. I'm always open to discussing new projects, ideas, or opportunities. 
+## Get in Touch
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out via email or LinkedIn:
 
 - [Email](mailto:diego.prieto.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/diego-prieto-%C3%AD%C3%B1iguez-925738239/)
