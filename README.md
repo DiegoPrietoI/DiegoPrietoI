@@ -8,7 +8,7 @@ I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, React
 ## Skills
 - **Programming Languages:** JavaScript, HTML, CSS.
 - **Frameworks and Libraries:** React, Redux.
- **Tools and Technologies:** Git, npm, Yarn.
+- **Tools and Technologies:** Git, npm, Yarn.
 
 <!-- Projects -->
 ## Projects
