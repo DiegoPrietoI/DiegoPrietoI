@@ -1,4 +1,4 @@
-# myProfile
+# Diego Dev
 
 <!-- Introduction -->
 # Hi there, I'm Diego 👋
