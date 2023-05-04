@@ -23,7 +23,7 @@ Description of the project and what it does. -->
 
 <!-- Github Stats -->
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DiegoPrietoI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xDiegoDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
 
 <!-- Contact -->
 ## Get in Touch
