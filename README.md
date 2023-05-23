@@ -1,6 +1,6 @@
 <!-- Introduction -->
 # Hi there, I'm Diego 👋
-I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, React, and Redux. My goal is to create responsive and user-friendly web applications that provide an exceptional user experience.
+I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, TypeScript, React, and Redux. My goal is to create responsive and user-friendly web applications that provide an exceptional user experience.
 
 <!-- Skills -->
 ## Skills
