@@ -38,5 +38,4 @@ I'm always open to discussing new projects, ideas, or opportunities. Feel free t
 
 * 📧 [Email](mailto:diego.prieto.dev@gmail.com)
 * 🌍 [LinkedIn](https://www.linkedin.com/in/diego-prieto-%C3%AD%C3%B1iguez-925738239/)
-* 🐦 [Twitter](https://twitter.com/your_handle) _(Optional)_
 
