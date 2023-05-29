@@ -4,14 +4,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=f06529)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CS53](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css5)
 
 <!-- Introduction -->
 I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, TypeScript, React, and Redux. My goal is to create responsive and user-friendly web applications that provide an exceptional user experience.
 
 <!-- Skills -->
 ## Skills
-* **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
+* **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS5.
 * **Frameworks and Libraries:** React, Redux.
 * **Tools:** Git, npm, Yarn, Jest, Cypress, Bootstrap, Figma.
 
