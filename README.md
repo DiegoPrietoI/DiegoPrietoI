@@ -42,7 +42,7 @@ An commerce platform created with HTML, CSS and JS.
 ### [Hotel-Miranda](https://github.com/xDiegoDev/Hotel-Miranda)
 A hotel reservation site using HTML5, CSS3, and JavaScript.
 
-### [DALL-E](https://github.com/xDiegoDev/DALLE)
+### [DALL-E](https://github.com/xDiegoDev/DALL-E)
 This project is an implementation of the DALL-E concept proposed by OpenAI, which utilizes a deep learning model to generate images from textual descriptions. My version includes an interactive user interface built with React that allows users to input their own descriptions and generate unique images. Technologies used in this project are JavaScript, React, Node.js, Express and Tailwind CSS.
 
 <!-- GitHub Stats -->
