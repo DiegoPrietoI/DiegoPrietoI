@@ -30,14 +30,20 @@ I'm a passionate frontend developer specializing in HTML, CSS, JavaScript, TypeS
 ## Projects
 Here are some of my recent projects that showcase my skills:
 
-<!-- ### [Project 1](https://github.com/user/project-1)
-Short description of the project and what technologies it uses.
+## Projects
+Here are some of my recent projects that showcase my skills:
 
-### [Project 2](https://github.com/user/project-2)
-Short description of the project and what technologies it uses.
+### [Image-Selector](https://github.com/xDiegoDev/Image-Selector)
+A robust image selection tool built with React and Redux, styled with CSS and Bootstrap components.
 
-### [Project 3](https://github.com/user/project-3)
-Short description of the project and what technologies it uses. -->
+### [Oxygen-Shop](https://github.com/xDiegoDev/Oxygen-Shop)
+An commerce platform created with HTML, CSS and JS.
+
+### [Hotel-Miranda](https://github.com/xDiegoDev/Hotel-Miranda)
+A hotel reservation site using HTML5, CSS3, and JavaScript.
+
+### [DALL-E](https://github.com/xDiegoDev/DALLE)
+This project is an implementation of the DALL-E concept proposed by OpenAI, which utilizes a deep learning model to generate images from textual descriptions. My version includes an interactive user interface built with React that allows users to input their own descriptions and generate unique images. Technologies used in this project are JavaScript, React, Node.js, Express and Tailwind CSS.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
