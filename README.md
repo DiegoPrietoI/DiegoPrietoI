@@ -47,7 +47,6 @@ This project is an implementation of the DALL-E concept proposed by OpenAI, whic
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xDiegoDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xDiegoDev&theme=dark)
 
