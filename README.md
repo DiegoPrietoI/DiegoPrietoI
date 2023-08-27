@@ -10,25 +10,24 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Gaming](https://img.shields.io/badge/Gaming-890E8B?style=for-the-badge)
 
-Driven by curiosity and a passion for innovation, I'm on a continuous journey of creating and exploring the intersections of technology, gaming, and the Web3 space. Every line of code is a step closer to materializing ideas that shape the future.
+## 🚀 Current Venture
+I've recently founded [The-Blockchain-Baron](https://github.com/The-Blockchain-Baron), a venture into the world of gaming and Web3. We're deep into the development of an exciting project that aims to blend the realms of gaming, blockchain, and decentralized finance. Stay tuned for more updates!
 
 ## Skills
-* **Programming Languages:** JavaScript (ES6+), TypeScript.
-* **Backend:** Node.js, Express.
-* **Frontend:** React.
+* **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL.
+* **Frameworks and Libraries:** React, Node.js, Express.
 * **Databases:** MongoDB, SQL.
-* **Web3 & Gaming:** Exploring the possibilities and pushing boundaries.
-* **Tools:** Git, npm, Yarn, Figma.
-
-## Current Endeavor
-Embarking on a unique project, blending the realms of gaming, cryptocurrency, and blockchain. While the specifics remain a mystery for now, the excitement and dedication remain unwavering. Stay tuned for snippets of progress and milestones.
+* **Tools:** Git, npm, Yarn, Bootstrap, Figma.
 
 ## GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xDiegoDev&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xDiegoDev&layout=compact)
 
-## Let's Connect
-If you're as passionate about creating and innovating as I am, or if you just want to chat, reach out:
+## Get in Touch
+I'm always eager to dive into new challenges and opportunities. If you want to collaborate or just chat about tech, don't hesitate:
+
 * 📧 [Email](mailto:diego.prieto.dev@gmail.com)
 * 🌍 [LinkedIn](https://www.linkedin.com/in/diego-prieto-%C3%AD%C3%B1iguez-925738239/)
 
