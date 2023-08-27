@@ -11,7 +11,7 @@
 ![Gaming](https://img.shields.io/badge/Gaming-890E8B?style=for-the-badge)
 
 ## 🚀 Current Venture
-I've recently founded [The-Blockchain-Baron](https://github.com/The-Blockchain-Baron), a venture into the world of gaming and Web3. We're deep into the development of an exciting project that aims to blend the realms of gaming, blockchain, and decentralized finance. Stay tuned for more updates!
+I've recently founded [The-Blockchain-Baron](https://github.com/Blockchain-Baron), a venture into the world of gaming and Web3. We're deep into the development of an exciting project that aims to blend the realms of gaming, blockchain, and decentralized finance. Stay tuned for more updates!
 
 ## Skills
 * **Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL.
